@@ -1,0 +1,16 @@
+C:\Users\PSoji\Documents\GitHub\Arrays_task\bin\Debug\net5.0\Arrays_task.exe
+C:\Users\PSoji\Documents\GitHub\Arrays_task\bin\Debug\net5.0\Arrays_task.deps.json
+C:\Users\PSoji\Documents\GitHub\Arrays_task\bin\Debug\net5.0\Arrays_task.runtimeconfig.json
+C:\Users\PSoji\Documents\GitHub\Arrays_task\bin\Debug\net5.0\Arrays_task.runtimeconfig.dev.json
+C:\Users\PSoji\Documents\GitHub\Arrays_task\bin\Debug\net5.0\Arrays_task.dll
+C:\Users\PSoji\Documents\GitHub\Arrays_task\bin\Debug\net5.0\ref\Arrays_task.dll
+C:\Users\PSoji\Documents\GitHub\Arrays_task\bin\Debug\net5.0\Arrays_task.pdb
+C:\Users\PSoji\Documents\GitHub\Arrays_task\obj\Debug\net5.0\Arrays_task.csprojAssemblyReference.cache
+C:\Users\PSoji\Documents\GitHub\Arrays_task\obj\Debug\net5.0\Arrays_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PSoji\Documents\GitHub\Arrays_task\obj\Debug\net5.0\Arrays_task.AssemblyInfoInputs.cache
+C:\Users\PSoji\Documents\GitHub\Arrays_task\obj\Debug\net5.0\Arrays_task.AssemblyInfo.cs
+C:\Users\PSoji\Documents\GitHub\Arrays_task\obj\Debug\net5.0\Arrays_task.csproj.CoreCompileInputs.cache
+C:\Users\PSoji\Documents\GitHub\Arrays_task\obj\Debug\net5.0\Arrays_task.dll
+C:\Users\PSoji\Documents\GitHub\Arrays_task\obj\Debug\net5.0\ref\Arrays_task.dll
+C:\Users\PSoji\Documents\GitHub\Arrays_task\obj\Debug\net5.0\Arrays_task.pdb
+C:\Users\PSoji\Documents\GitHub\Arrays_task\obj\Debug\net5.0\Arrays_task.genruntimeconfig.cache
